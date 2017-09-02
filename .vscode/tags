@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+COLS	../aco.py	/^COLS = 16$/;"	kind:variable	line:13
+EVAPORATION	../aco.py	/^EVAPORATION = 0.5       #0.5$/;"	kind:variable	line:23
+GENERATIONS	../aco.py	/^GENERATIONS = 10        #10$/;"	kind:variable	line:20
+INITIAL_PHEROMONE	../aco.py	/^INITIAL_PHEROMONE = 1   #1$/;"	kind:variable	line:21
+N_ANTS	../aco.py	/^N_ANTS = 100            #100$/;"	kind:variable	line:22
+PH_BESTSOL	../aco.py	/^PH_BESTSOL = 20         #20$/;"	kind:variable	line:25
+PH_INIT	../aco.py	/^PH_INIT = 20            #20$/;"	kind:variable	line:24
+PH_SOL	../aco.py	/^PH_SOL = 2              #2$/;"	kind:variable	line:26
+REPETITIONS	../aco.py	/^REPETITIONS = 3         #40$/;"	kind:variable	line:19
+ROWS	../aco.py	/^ROWS = 6$/;"	kind:variable	line:12
+VAR_LEVEL_STEP	../aco.py	/^VAR_LEVEL_STEP = 0.2$/;"	kind:variable	line:14
+aco.py	../aco.py	1;"	kind:file	line:1
+buildPath	../aco.py	/^def buildPath(pheromones):$/;"	kind:function	line:42
+createDictionary	../aco.py	/^def createDictionary(dataset):$/;"	kind:function	line:28
+genRandomPath	../aco.py	/^def genRandomPath():$/;"	kind:function	line:70
+keyGen	../aco.py	/^def keyGen(path):$/;"	kind:function	line:35
+main	../aco.py	/^def main():$/;"	kind:function	line:98
+matplotlib	../aco.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:9
+np	../aco.py	/^import numpy as np$/;"	kind:namespace	line:7
+plt	../aco.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:9
+putPherom	../aco.py	/^def putPherom(matrix, path, qty):$/;"	kind:function	line:65
+random	../aco.py	/^import random$/;"	kind:namespace	line:8
+sp	../aco.py	/^import scipy as sp$/;"	kind:namespace	line:6
+validPath	../aco.py	/^def validPath(path):$/;"	kind:function	line:86
